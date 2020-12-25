@@ -26,7 +26,8 @@ while True:
         continue
 
     if user_ip == target:
-        print('Your got {} correct in just {} guess'.format(target,len(guess)))
+        print('CONGRATULATIONS !!')
+        print('You got {} correct in just {} guess'.format(target,len(guess)))
         break
 
     guess.append(user_ip)
