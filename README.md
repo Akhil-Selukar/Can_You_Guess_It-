@@ -6,6 +6,9 @@ A random number will be picked up between 1 to 100 and player will be asked to g
 the total number of guesses player took to find the correct number will the his/her score.
 
 Guidelines to play:
-1. If player enter number less that 1 or greater that 100. It will be taken as invalid guess and will not be counted.
-2. After first valid guess it will guide you where to search for i.e. up or down.
-3. If the actual number is within +/- 10 places from your guess it will show "too close go a bit up/down".
+1. If you enter number less that 1 or greater that 100. It will be taken as invalid guess and will not be counted.
+2. After first valid guess it will give you a hint how close you are.
+3. If you are going towards the number it will say "You are getting closer to the number :)"
+4. If you are going away from the number it will say "You are going away from number :("
+
+Good Luck!!
